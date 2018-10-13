@@ -1,4 +1,4 @@
-                           Construct 2的新手指南
+Construct 2的新手指南
 一、开始
    现在你设置,启动Construct 2。点击文件按钮,选择New。
    https://www.scirra.com/images/articles/filenew.png
